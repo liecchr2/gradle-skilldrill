@@ -1,0 +1,17 @@
+[
+  {
+    "number": 1337,
+    "subject": "CS",
+    "title": "System Programming and Assembly"
+  },
+  {
+    "number": 2235,
+    "subject": "CS",
+    "title": "Data Structures and Algorithms"
+  },
+  {
+    "number": 3305,
+    "subject": "CS",
+    "title": "Introduction to Computational Theory"
+  }
+]

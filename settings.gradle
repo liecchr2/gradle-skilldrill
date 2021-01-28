@@ -9,3 +9,5 @@
 
 rootProject.name = 'gradle-skilldrill'
 include('app')
+include 'module-info.java'
+
