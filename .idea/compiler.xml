@@ -4,6 +4,10 @@
     <bytecodeTargetLevel>
       <module name="app_main" target="11" />
       <module name="app_test" target="11" />
+      <module name="gradle-skilldrill-app_main" target="11" />
+      <module name="gradle-skilldrill-app_test" target="11" />
+      <module name="module-info.java_main" target="1.8" />
+      <module name="module-info.java_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

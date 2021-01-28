@@ -6,6 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app_main.iml" group="gradle-skilldrill/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app_test.iml" group="gradle-skilldrill/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-skilldrill.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-skilldrill.iml" group="gradle-skilldrill" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gradle-skilldrill-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gradle-skilldrill-app_main.iml" group="gradle-skilldrill/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gradle-skilldrill-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gradle-skilldrill-app_test.iml" group="gradle-skilldrill/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-info.java/gradle-skilldrill-module-info.java.iml" filepath="$PROJECT_DIR$/.idea/modules/module-info.java/gradle-skilldrill-module-info.java.iml" group="gradle-skilldrill/module-info.java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-info.java.iml" filepath="$PROJECT_DIR$/.idea/modules/module-info.java.iml" group="gradle-skilldrill/module-info.java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-info.java/module-info.java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-info.java/module-info.java_main.iml" group="gradle-skilldrill/module-info.java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-info.java/module-info.java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-info.java/module-info.java_test.iml" group="gradle-skilldrill/module-info.java" />
     </modules>
   </component>
 </project>

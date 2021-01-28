@@ -19,7 +19,7 @@ plugins {
 
 javafx {
     //Specify version number
-    version = "15.0.1"
+    version = "11.0.4"
 
     //Add required modules
     modules = [ 'javafx.controls' ]
@@ -44,7 +44,7 @@ dependencies {
     implementation 'com.google.guava:guava:29.0-jre'
 
     //This dependency is used by the application
-    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.google.code.gson:gson:2.8.6'
 }
 
 application {
